@@ -1,0 +1,23 @@
+/* _cards.css */
+.card {
+    background-color: var(--light);
+    border-radius: var(--radius-md);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: var(--spacing-md);
+    margin-bottom: var(--spacing-lg);
+}
+
+.card-header {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: var(--spacing-sm);
+}
+
+.card-body {
+    font-size: var(--font-size);
+}
+
+.card-footer {
+    margin-top: var(--spacing-md);
+    text-align: right;
+}

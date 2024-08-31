@@ -1,0 +1,13 @@
+/* _gradients.css */
+
+/* Dégradé linéaire */
+.bg-gradient-sky-to-ocean { background: linear-gradient(45deg, var(--color-sky), var(--color-ocean)) !important; }
+.bg-gradient-mint-to-emerald { background: linear-gradient(45deg, var(--color-mint), var(--color-emerald)) !important; }
+
+/* Dégradé radial */
+.bg-gradient-rose-to-coral { background: radial-gradient(circle, var(--color-rose), var(--color-coral)) !important; }
+.bg-gradient-sun-to-gold { background: radial-gradient(circle, var(--color-sun), var(--color-gold)) !important; }
+
+/* Dégradé contextuel doux */
+.bg-gradient-sunset { background: linear-gradient(120deg, var(--color-rose), var(--color-tangerine)) !important; }
+.bg-gradient-seafoam { background: radial-gradient(circle, var(--color-mint), var(--color-sky)) !important; }

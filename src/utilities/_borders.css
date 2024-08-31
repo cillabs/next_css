@@ -1,0 +1,135 @@
+/* Taille de bordure */
+.border-1 { border-width: 1px !important; }
+.border-2 { border-width: 2px !important; }
+.border-3 { border-width: 3px !important; }
+.border-4 { border-width: 4px !important; }
+.border-5 { border-width: 5px !important; }
+
+/* Rayon de bordure */
+.border-sm { border-radius: 4px !important; }
+.border-md { border-radius: 8px !important; }
+.border-l { border-radius: 12px !important; }
+.border-xl { border-radius: 16px !important; }
+.border-xxl { border-radius: 24px !important; }
+
+/* Couleur de bordure */
+/* Couleur de bordure Bleu */
+.border-sky { border-color: var(--color-sky) !important; }
+.border-sky-light { border-color: var(--color-sky-light) !important; }
+.border-sky-dark { border-color: var(--color-sky-dark) !important; }
+.border-sky-muted { border-color: var(--color-sky-muted) !important; }
+
+/* Couleur de bordure Rose */
+.border-rose { border-color: var(--color-rose) !important; }
+.border-rose-light { border-color: var(--color-rose-light) !important; }
+.border-rose-dark { border-color: var(--color-rose-dark) !important; }
+.border-rose-muted { border-color: var(--color-rose-muted) !important; }
+
+/* Couleur de bordure Vert Émeraude */
+.border-emerald { border-color: var(--color-emerald) !important; }
+.border-emerald-light { border-color: var(--color-emerald-light) !important; }
+.border-emerald-dark { border-color: var(--color-emerald-dark) !important; }
+.border-emerald-muted { border-color: var(--color-emerald-muted) !important; }
+
+/* Couleur de bordure Orange */
+.border-orange { border-color: var(--color-orange) !important; }
+.border-orange-light { border-color: var(--color-orange-light) !important; }
+.border-orange-dark { border-color: var(--color-orange-dark) !important; }
+.border-orange-muted { border-color: var(--color-orange-muted) !important; }
+
+/* Couleur de bordure Jaune */
+.border-yellow { border-color: var(--color-yellow) !important; }
+.border-yellow-light { border-color: var(--color-yellow-light) !important; }
+.border-yellow-dark { border-color: var(--color-yellow-dark) !important; }
+.border-yellow-muted { border-color: var(--color-yellow-muted) !important; }
+
+/* Couleur de bordure Noir */
+.border-black { border-color: var(--color-black) !important; }
+.border-black-light { border-color: var(--color-black-light) !important; }
+.border-black-dark { border-color: var(--color-black-dark) !important; }
+
+/* Couleur de bordure Blanc */
+.border-white { border-color: var(--color-white) !important; }
+.border-white-light { border-color: var(--color-white-light) !important; }
+.border-white-dark { border-color: var(--color-white-dark) !important; }
+
+.border-sky-opacity-10 { border-color: rgba(135, 206, 235, 0.1) !important; }
+.border-sky-opacity-30 { border-color: rgba(135, 206, 235, 0.3) !important; }
+.border-sky-opacity-50 { border-color: rgba(135, 206, 235, 0.5) !important; }
+.border-sky-opacity-70 { border-color: rgba(135, 206, 235, 0.7) !important; }
+.border-sky-opacity-90 { border-color: rgba(135, 206, 235, 0.9) !important; }
+
+.border-rose-opacity-10 { border-color: rgba(255, 105, 180, 0.1) !important; }
+.border-rose-opacity-30 { border-color: rgba(255, 105, 180, 0.3) !important; }
+.border-rose-opacity-50 { border-color: rgba(255, 105, 180, 0.5) !important; }
+.border-rose-opacity-70 { border-color: rgba(255, 105, 180, 0.7) !important; }
+.border-rose-opacity-90 { border-color: rgba(255, 105, 180, 0.9) !important; }
+
+.border-emerald-opacity-10 { border-color: rgba(80, 200, 120, 0.1) !important; }
+.border-emerald-opacity-30 { border-color: rgba(80, 200, 120, 0.3) !important; }
+.border-emerald-opacity-50 { border-color: rgba(80, 200, 120, 0.5) !important; }
+.border-emerald-opacity-70 { border-color: rgba(80, 200, 120, 0.7) !important; }
+.border-emerald-opacity-90 { border-color: rgba(80, 200, 120, 0.9) !important; }
+
+.border-orange-opacity-10 { border-color: rgba(255, 165, 0, 0.1) !important; }
+.border-orange-opacity-30 { border-color: rgba(255, 165, 0, 0.3) !important; }
+.border-orange-opacity-50 { border-color: rgba(255, 165, 0, 0.5) !important; }
+.border-orange-opacity-70 { border-color: rgba(255, 165, 0, 0.7) !important; }
+.border-orange-opacity-90 { border-color: rgba(255, 165, 0, 0.9) !important; }
+
+.border-yellow-opacity-10 { border-color: rgba(255, 255, 0, 0.1) !important; }
+.border-yellow-opacity-30 { border-color: rgba(255, 255, 0, 0.3) !important; }
+.border-yellow-opacity-50 { border-color: rgba(255, 255, 0, 0.5) !important; }
+.border-yellow-opacity-70 { border-color: rgba(255, 255, 0, 0.7) !important; }
+.border-yellow-opacity-90 { border-color: rgba(255, 255, 0, 0.9) !important; }
+
+.border-black-opacity-10 { border-color: rgba(0, 0, 0, 0.1) !important; }
+.border-black-opacity-30 { border-color: rgba(0, 0, 0, 0.3) !important; }
+.border-black-opacity-50 { border-color: rgba(0, 0, 0, 0.5) !important; }
+.border-black-opacity-70 { border-color: rgba(0, 0, 0, 0.7) !important; }
+.border-black-opacity-90 { border-color: rgba(0, 0, 0, 0.9) !important; }
+
+.border-white-opacity-10 { border-color: rgba(255, 255, 255, 0.1) !important; }
+.border-white-opacity-30 { border-color: rgba(255, 255, 255, 0.3) !important; }
+.border-white-opacity-50 { border-color: rgba(255, 255, 255, 0.5) !important; }
+.border-white-opacity-70 { border-color: rgba(255, 255, 255, 0.7) !important; }
+.border-white-opacity-90 { border-color: rgba(255, 255, 255, 0.9) !important; }
+
+/* Couleur avec opacité */
+.border-sky-opacity-10 { border-color: rgba(135, 206, 235, 0.1) !important; }
+.border-sky-opacity-30 { border-color: rgba(135, 206, 235, 0.3) !important; }
+.border-rose-opacity-50 { border-color: rgba(255, 0, 127, 0.5) !important; }
+
+/* Style de bordure */
+.border-solid { border-style: solid !important; }
+.border-dashed { border-style: dashed !important; }
+.border-dotted { border-style: dotted !important; }
+.border-double { border-style: double !important; }
+.border-none { border-style: none !important; }
+
+/* Bordure Complète */
+.border {
+    border-style: solid; /* Valeur par défaut pour les bordures complètes */
+    border-width: 1px; /* Valeur par défaut pour la taille de bordure */
+    border-color: var(--color-sky); /* Valeur par défaut pour la couleur de bordure */
+    border-radius: 4px; /* Valeur par défaut pour le rayon de bordure */
+}
+
+/* Bordures Responsives */
+@media (max-width: 599px) {
+    .border-1-sm { border-width: 1px !important; }
+    .border-sm-sm { border-radius: 4px !important; }
+    .border-sky-sm { border-color: var(--color-sky) !important; }
+}
+
+@media (min-width: 600px) and (max-width: 1199px) {
+    .border-2-md { border-width: 2px !important; }
+    .border-md-md { border-radius: 8px !important; }
+    .border-rose-md { border-color: var(--color-rose) !important; }
+}
+
+@media (min-width: 1200px) {
+    .border-3-lg { border-width: 3px !important; }
+    .border-lg-lg { border-radius: 12px !important; }
+    .border-ocean-lg { border-color: var(--color-ocean) !important; }
+}

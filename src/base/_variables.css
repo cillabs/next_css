@@ -1,0 +1,69 @@
+/* _variables.css */
+
+/* Couleurs de Base */
+:root {
+    /* Bleus */
+    --color-sky: #87ceeb;
+    --color-ocean: #00aaff;
+    --color-royal: #4169e1;
+
+    /* Rouges */
+    --color-rose: #ff007f;
+    --color-coral: #ff7f50;
+    --color-crimson: #dc143c;
+
+    /* Verts */
+    --color-mint: #98ff98;
+    --color-emerald: #50c878;
+    --color-forest: #228b22;
+
+    /* Jaunes */
+    --color-sun: #ffcc00;
+    --color-gold: #ffd700;
+    --color-amber: #ffbf00;
+
+    /* Oranges */
+    --color-tangerine: #ff6347;
+    --color-pumpkin: #ff7518;
+    --color-saffron: #f4c542;
+
+    /* Neutres */
+    --color-silver: #c0c0c0;
+    --color-charcoal: #36454f;
+    --color-ivory: #fffff0;
+    --color-pearl: #eae0d5;
+}
+
+/* Variations */
+:root {
+    /* Variations des Bleus */
+    --color-sky-light: #b0e0e6;
+    --color-ocean-medium: #0099cc;
+    --color-royal-dark: #0033cc;
+
+    /* Variations des Rouges */
+    --color-rose-light: #ffb6c1;
+    --color-coral-medium: #ff6347;
+    --color-crimson-dark: #800000;
+
+    /* Variations des Verts */
+    --color-mint-light: #b2f2b1;
+    --color-emerald-medium: #4caf50;
+    --color-forest-dark: #006400;
+
+    /* Variations des Jaunes */
+    --color-sun-light: #fff8dc;
+    --color-gold-medium: #ffd700;
+    --color-amber-dark: #ff8c00;
+
+    /* Variations des Oranges */
+    --color-tangerine-light: #ff9966;
+    --color-pumpkin-medium: #ff7518;
+    --color-saffron-dark: #f4a300;
+
+    /* Variations des Neutres */
+    --color-silver-light: #d3d3d3;
+    --color-charcoal-medium: #2f4f4f;
+    --color-ivory-dark: #f5f5dc;
+    --color-pearl-muted: #e5d8d2;
+}

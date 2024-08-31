@@ -1,0 +1,19 @@
+/* _opacity.css */
+
+/* Opacité pour les arrière-plans */
+.bg-opacity-1 { background-color: rgba(0, 0, 0, 0.1) !important; }
+.bg-opacity-2 { background-color: rgba(0, 0, 0, 0.2) !important; }
+.bg-opacity-3 { background-color: rgba(0, 0, 0, 0.3) !important; }
+.bg-opacity-4 { background-color: rgba(0, 0, 0, 0.4) !important; }
+.bg-opacity-5 { background-color: rgba(0, 0, 0, 0.5) !important; }
+
+/* Opacité pour les textes */
+.text-opacity-1 { color: rgba(0, 0, 0, 0.1) !important; }
+.text-opacity-2 { color: rgba(0, 0, 0, 0.2) !important; }
+.text-opacity-3 { color: rgba(0, 0, 0, 0.3) !important; }
+.text-opacity-4 { color: rgba(0, 0, 0, 0.4) !important; }
+.text-opacity-5 { color: rgba(0, 0, 0, 0.5) !important; }
+
+/* Opacité pour les couleurs spécifiques */
+.bg-sky-opacity-3 { background-color: rgba(135, 206, 235, 0.3) !important; }
+.text-rose-opacity-5 { color: rgba(255, 0, 127, 0.5) !important; }

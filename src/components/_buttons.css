@@ -1,0 +1,29 @@
+/* _buttons.css */
+.btn {
+    display: inline-block;
+    padding: var(--spacing-sm) var(--spacing-md);
+    font-size: var(--font-size);
+    color: var(--light);
+    background-color: var(--primary);
+    border: none;
+    border-radius: var(--radius-sm);
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-secondary {
+    background-color: var(--secondary);
+}
+
+.btn-success {
+    background-color: var(--success);
+}
+
+.btn-danger {
+    background-color: var(--danger);
+}
+
+.btn:hover {
+    opacity: 0.9;
+}

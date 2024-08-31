@@ -1,0 +1,23 @@
+/* _typography.css */
+body {
+    font-family: var(--font-base);
+    font-size: var(--font-size);
+    color: var(--dark);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--dark);
+}
+
+p {
+    margin-bottom: var(--spacing-md);
+}
+
+a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

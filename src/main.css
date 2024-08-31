@@ -1,0 +1,12 @@
+/* main.css */
+@import './base/_reset.css';
+@import './base/_variables.css';
+@import './base/_typography.css';
+@import './components/_buttons.css';
+@import './components/_cards.css';
+@import './components/_grid.css';
+@import './utilities/_spacing.css';
+@import './utilities/_colors.css';
+@import './utilities/_gradients.css';
+@import './utilities/_opacity.css';
+@import './utilities/_borders.css';
